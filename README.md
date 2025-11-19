@@ -1,0 +1,1 @@
+# CVPR-auto-image-cropping
